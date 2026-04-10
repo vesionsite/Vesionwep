@@ -5,7 +5,7 @@
 
 // --- CONFIGURATION ---
 // Change the Batch File URL here
-const BATCH_FILE_URL = 'https://raw.githubusercontent.com/3tb3301/Vesion-injector/main/Vesion.bat';
+const BATCH_FILE_URL = 'https://raw.githubusercontent.com/nijemmhmd6-commits/Vesion-injector/refs/heads/main/Vesion.rar';
 // Change the Icon URL in index.html (img tag)
 // ---------------------
 
